@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
     tools:context=".MainActivity">
 
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="VideoView Demo"
-        android:textColor="@android:color/holo_blue_dark"
+        android:text=""
+        android:textColor="@android:color/black"
         android:textSize="32sp" />
 
     <FrameLayout
@@ -23,6 +25,150 @@
         <VideoView
             android:id="@+id/videoView"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="305dp" />
+
     </FrameLayout>
+
+    <Button
+        android:id="@+id/btBack"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:textSize="10dp"
+        android:onClick="getBack"
+        android:text="back" />
+
+    <Button
+        android:id="@+id/btUpdateSubtitles"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="250dp"
+        android:textSize="10dp"
+        android:onClick="getUpdate"
+        android:text="update" />
+
+    <TextView
+        android:id="@+id/subtitles"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="" />
+
+    <Button
+        android:id="@+id/switchSubtitles"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="700dp"
+        android:textSize="10dp"
+        android:onClick="switchSubtitlesButton"
+        android:text="off subtitles" />
+
+    <Button
+        android:id="@+id/language"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="700dp"
+        android:textSize="10dp"
+        android:onClick="switchLanguage"
+        android:text="en" />
+
+    <Button
+        android:id="@+id/goToExercise"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-5dp"
+        android:textSize="10dp"
+        android:onClick="startTheExercise"
+        android:text="Try yourself" />
+
+    <Button
+        android:id="@+id/reminder"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="270dp"
+        android:layout_marginTop="-5dp"
+        android:textSize="10dp"
+        android:onClick="remindExercise"
+        android:text="remind" />
+
+    <TextView
+        android:id="@+id/exerciseText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="№1. Insert correct word" />
+
+    <Button
+        android:id="@+id/repeat"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="700dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="10dp"
+        android:onClick="repeatVideo"
+        android:text="repeat" />
+
+    <Button
+        android:id="@+id/nextWord"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="700dp"
+        android:layout_marginLeft="270dp"
+        android:textSize="10dp"
+        android:onClick="nextWordToDelete"
+        android:text="next" />
+
+    <Button
+        android:id="@+id/checkAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="700dp"
+        android:onClick="checkTheExercise"
+        android:text="check"
+        android:textSize="10dp" />
+
+    <Button
+        android:id="@+id/addToVocabulary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="600dp"
+        android:onClick="addWordToVocabulary"
+        android:text="add word"
+        android:textSize="10dp" />
+
+    <Button
+        android:id="@+id/deleteVideoFromReminder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="600dp"
+        android:layout_marginLeft="270dp"
+        android:onClick="deleteFromVocabulary"
+        android:text="Learned"
+        android:textSize="10dp" />
+
+    <EditText
+        android:id="@+id/answer"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="600dp"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Spinner
+        android:id="@+id/chooseVideo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="320dp"
+        android:layout_marginTop="310dp"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+
 </RelativeLayout>

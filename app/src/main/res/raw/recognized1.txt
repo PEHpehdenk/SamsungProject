@@ -1,0 +1,86 @@
+if you've gone to a Tech conference literally any Tech Conference in The Last 5 Years. 
+you would walk away with the impression that the connected easy-to-navigate clean and green smart city is just around the corner. 
+the reality is that and the height is that many companies are working on products and solutions to get there. 
+a transportation for example allegedly in the city of the future you will be able to seamlessly plan your journey from public transportation to Shared autonomous taxis and even electric scooters. 
+if you own a car it will be Electric. 
+and there will be charging stations strategically placed throughout the city so all you do is type your location into your GPS and it will automatically take you to your location the minimum amount of time and any payment you need for charging will be done automatically in the background. 
+are you might say we admitted their companies that are doing this today I can do this today but its individual companies and it's certainly not ubiquitous across the across the city. 
+but it doesn't stop at transportation. 
+artechouse. 
+in the future there will be air quality monitors every street corner and they will be connected with your asthma inhaler so that you know when it's safe to go out. 
+or. 
+there will be infrared cameras that are measuring the temperature at citizens anonymously and that'll be connected with your thermometer so that we can detect you trout breaks. 
+and of course you will also have your wearable device that's connected to your your bathroom scale and your smart refrigerator so that nutritionist doctors and other companies can come up with new ways to keep you you know slim and and trip as I am. 
+set timer for start shopping I mean when your shop today you know you purchased from different retailers and you received multiple shipments during the course of the day. 
+thought you had an app where you can set your preferences and do shipments can be Consolidated and maybe you received fewer shipments during the week a little bit less convenient but you get to reduce your carbon footprint. 
+so these are all great ideas and solutions and products that companies are working on. 
+they all share an underlying requirement that could make that smart City more of the distant dream than a reality just around the corner. 
+and that is the need for greater sharing of data across companies individuals and cities. 
+and if it's one thing that we've learned is that companies don't like to share. They don't even like to share our own data with us. 
+the light alone data with competitors or partners. 
+and therein lies The Dilemma. 
+because if we want to have a chance at really combating climate change. 
+we need to have our City's become a smart and has connected as quickly as possible and as many cities as possible. 
+so we need to overcome this fear of data sharing and move towards the Smart City future. 
+why is it that companies fear sharing data. 
+Twilight's what I call foma not fomo the fear of missing out on a great party or either opportunity but phone by the fear of missing out on competitive Advantage data is a source of competitive Banner so why would companies want to give it up. 
+in our research over the last few years we've been looking at many different solutions that would improve the citizen experience and as well sustainability solutions for cities. 
+and what we found is that 85% of those Solutions require much more data sharing across companies individuals and cities. 
+so the question really comes how do we motivate companies to share more of their data. 
+we need to actually overcome this fear quickly if you want to make meaningful progress on climate change. 
+well every talk to a number of companies that were building platforms and ecosystems and different verticals like Logistics Transportation smart building smart cities. 
+we asked about what it would take to drive greater day or sharing across these different solutions and what we heard were the usual concerns data-sharing is costly it's complicated and companies were concerned about unintended disclosures that could risk their brat. 
+however there was one exception and I think it's promising. 
+companies were more willing to share their data. 
+if it could serve a broader common purpose Beyond commercial motivation. 
+any particular. 
+they're more willing to share their data beyond their own four walls if that data sharing could help fight climate change. 
+birthdate for example a few car companies. 
+but actually are Fierce competitors and they got together and started to share detailed mapping data so they could develop better solutions for routing truck so they spend less time Eileen and and also could route trucks in a city based on prevailing wind patterns to reduce mop. 
+it's a pretty cool solutions that companies are working on. 
+but the real question is if this common purpose of fighting climate change can help leaders overcome their data-sharing Fulmer. 
+how do we get them to actually do it. 
+well in our work we found that it takes three actions to jumpstart a virtuous cycle of data sharing and innovation. 
+first. 
+companies need to look for new unexpected sources of data. 
+second they need to develop. 
+new sustainability Solutions quickly. 
+and third they need to act together for change. 
+let's take finding new unexpected partners for data. 
+well what I mean by that is looking well beyond the four walls of a company for. 
+sources of data that can be combined with a company's own to analyze and develop new sustainability Solutions example. 
+Mythic farming. 
+farming historically has been more Arts and Science. 
+you had Farmers that make decisions on when to plant what fertilizer to apply. 
+went to irrigate excetera based on their own personal experience and knowledge of the farm. 
+Timber Star Trek. 
+and when Spock could scan the surface of a planet to know what the habitat was will using the sensors from the Enterprise and they could tell whether the planet could support human life. 
+well. 
+I don't dating myself in a bit of a geek but but but that that science fiction is becoming a reality today you have data from satellites from drones from sensors on the field from connected farming equipment that is collecting data all of that can be combined so that farmers can make better real-time decisions how to improve their overall crop yield reduce the amount of fertilizer and other chemicals they need and also conserve scarce resources like water. 
+so they can improve their income lower their cost and now they can even start generating new encompasses by planting carbon absorbing crops and and getting paid for that so. 
+really quite fascinating what's happening in agriculture. 
+next comes. 
+innovating quickly you sustainability solution. 
+what I'm talking about is not your typical long product roadmap. 
+but we need to have companies hire data scientists that can analyze all these different data sources and in new ads always bring you products and services to Market. 
+we need to use data and digital quickly to fight climate change. 
+finally acting together now let me come back to this Park City example. 
+if we had Transportation companies and utilities and buildings share data with the city then the city could make better decisions on investing in renewable energy project. 
+that could mean that you lower your energy bill and also reduce your carbon footprint. 
+or that Transportation data can be used to decide where charging stations are needed so that we can accelerate the speed of adoption of electric vehicles and that means that you spend less time in traffic. 
+but also your air is cleaner. 
+to really make progress on more sustainable energy we need to have data sharing across buildings transportation and utilities. 
+all of the state of sharing needs to come together for a brighter future. 
+now. 
+you also have a critical role to play. 
+of course we individually need to be in control of our own data. 
+imagine you have an app that allows you to stop preferences so that data from your car from your utilities from your shopping patterns can be shared and you can make decisions about your own carbon footprint. 
+every easy way so you can run what is scenarios what if I purchase an electric car what if I take the train from Boston to New York versus fly or if what if I change my shopping patterns so I shot more locally how much will that impact. 
+My overall carbon footprint. 
+would you be willing to share more data to have more sustainable climate and to make those climate-friendly decisions. 
+well. 
+i-41 I'm pretty excited about this future a future where greater data-sharing can really help us jointly combat climate change. 
+what we need is for company leaders to move away from folmar. 
+and back to good old-fashioned fomo. 
+the future is bright if all that data can be shared and I don't think we really want to miss out. 
+thank you. 
